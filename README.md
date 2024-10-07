@@ -18,4 +18,4 @@ The following tools and libraries were chosen for this project based on their su
 This project aims to leverage machine learning techniques to provide insights into customer behavior in the airline industry. By utilizing effective tools like Pandas, NumPy, and Scikit-learn, the project ensures a smooth workflow from data preprocessing to model prediction. The goal is to create a reliable predictive model that can assist businesses in understanding and anticipating customer needs.  
 <br>
 <br>
-*By Fares Laadjel, Mohammed Amine Dakli, Achraf Bayi and Wiame Kotbi*
+*By Fares Laadjel, Mohamed Amine Dakli, Achraf Bayi and Wiame Kotbi*
